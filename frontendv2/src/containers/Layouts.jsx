@@ -1,6 +1,6 @@
 import React from 'react'
-import PageContents from './PageContent'
-import LeftSidebar from "./Leftsidebar"
+import PageContents from './container/Pagecontent'
+import LeftSidebar from "./container/Leftsidebar"
 
 function Layouts() {
   return (
