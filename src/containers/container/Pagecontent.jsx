@@ -4,7 +4,7 @@ import routes from '../../routes'
 import { useEffect, useRef } from "react"
 import { Routes , useLocation, Route} from 'react-router-dom'
 import { useParams } from 'react-router-dom';
-import SuspenseContent from "../SuspenseContent"
+import SuspenseContent from "./SuspenseContent"
 
 
 
